@@ -47,11 +47,7 @@ desktop.ini
 *.csv~
 .env
 
-# Keep these directories but ignore contents except .gitkeep
-eda_plots/*
-!eda_plots/.gitkeep
-evaluation_plots/*
-!evaluation_plots/.gitkeep
+# Models directory - keep structure but ignore model files
 models/*
 !models/.gitkeep
 
