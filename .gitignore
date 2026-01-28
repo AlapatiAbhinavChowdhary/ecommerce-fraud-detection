@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+*.log
+*.csv~
+.env
+
+# Keep these directories but ignore contents except .gitkeep
+eda_plots/*
+!eda_plots/.gitkeep
+evaluation_plots/*
+!evaluation_plots/.gitkeep
+models/*
+!models/.gitkeep
+
+# Predictions output
+predictions_output.csv
+*_predictions.csv
